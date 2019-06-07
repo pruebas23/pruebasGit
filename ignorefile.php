@@ -1,1 +1,1 @@
-<?php echo 'archivo para ignorar'?>
+<?php echo 'archivo ignorar'?>
